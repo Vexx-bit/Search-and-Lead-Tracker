@@ -28,28 +28,10 @@ Search-and-Lead-Tracker/
 └── LICENSE.md          --> License info
   </pre>
 
-  <h2>⚙️ Installation</h2>
-  <ol>
-    <li>Clone the repo:
-      <pre><code>git clone https://github.com/Vexx-bit/Search-and-Lead-Tracker.git</code></pre>
-    </li>
-    <li>Set up a MySQL database and import SQL files from <code>/database</code></li>
-    <li>Configure DB/API settings in <code>/config</code></li>
-    <li>Run locally on Apache with PHP enabled (e.g., XAMPP/WAMP)</li>
-    <li>Visit: <code>http://localhost/Search-and-Lead-Tracker/index.php</code></li>
-  </ol>
-
-  <h2>🛠️ Usage</h2>
-  <ul>
-    <li>Search for leads via the dashboard</li>
-    <li>Track captured leads via <code>myleads.php</code></li>
-    <li>Update lead statuses (e.g., Contacted, Replied, Closed)</li>
-  </ul>
-
   <h2>📄 License</h2>
   <p>This project is licensed under the terms of the <a href="https://github.com/Vexx-bit/Search-and-Lead-Tracker/blob/main/LICENSE.md">LICENSE.md</a>.</p>
 
-  <p>Developed with ❤️ by <a href="https://github.com/Vexx-bit">Vexx-bit</a></p>
+  <p>Developed by <a href="https://github.com/Vexx-bit">Samuel Kang'ethe</a></p>
 
 </body>
 </html>
